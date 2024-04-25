@@ -1,0 +1,12 @@
+{
+    "super": {
+        "schema": "SBODEMOUSPREVIEW",
+        "user": "manager",
+        "password": "manager"
+    },
+    "noAuth": {
+        "schema": "US_I068096_2686_05_27",
+        "user": "userA",
+        "password": "1234"
+    }
+}

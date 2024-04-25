@@ -1,0 +1,1074 @@
+exports[`Sales Analysis by Rows Chart > Open chart page at first time #0`] =
+{
+  "DomText": "Standard"
+};
+
+exports[`Sales Analysis by Rows Chart > Open chart page at first time #1`] =
+{
+  "DomText": "Posting Date"
+};
+
+exports[`Sales Analysis by Rows Chart > Open chart page at first time #2`] =
+{
+  "DomText": "Document Type Display Name"
+};
+
+exports[`Sales Analysis by Rows Chart > Open chart page at first time #3`] =
+{
+  "DomText": "Business Partner Code"
+};
+
+exports[`Sales Analysis by Rows Chart > Open chart page at first time #4`] =
+{
+  "DomText": "Business Partner Group Name"
+};
+
+exports[`Sales Analysis by Rows Chart > Open chart page at first time #5`] =
+{
+  "DomText": "Item Code"
+};
+
+exports[`Sales Analysis by Rows Chart > Open chart page at first time #6`] =
+{
+  "DomText": "Item Group"
+};
+
+exports[`Sales Analysis by Rows Chart > Open chart page at first time #7`] =
+{
+  "DomText": "- 11 Month:Begin...Month:End"
+};
+
+exports[`Sales Analysis by Rows Chart > Open chart page at first time #8`] =
+{
+  "DomText": "A/R Invoice"
+};
+
+exports[`Sales Analysis by Rows Chart > Open chart page at first time #9`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Open chart page at first time #10`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Open chart page at first time #11`] =
+{
+  "DomText": "An Interactive Line Chart "
+};
+
+exports[`Sales Analysis by Rows Chart > Open chart page at first time #12`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Open chart page at first time #13`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Open chart page at first time #14`] =
+{
+  "DomText": "Posting Year and Month"
+};
+
+exports[`Sales Analysis by Rows Chart > Open chart page at first time #15`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table, measure:2, dim1:1, dim2:1 #0`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table, measure:2, dim1:1, dim2:1 #1`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table, measure:2, dim1:1, dim2:1 #2`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table, measure:2, dim1:1, dim2:1 #3`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table, measure:2, dim1:1, dim2:1 #4`] =
+{
+  "DomText": "Posting Year and Month"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table, measure:2, dim1:1, dim2:1 #5`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table, measure:2, dim1:1, dim2:1 #6`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table, measure:2, dim1:1, dim2:1 #7`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table, measure:2, dim1:1, dim2:1 #8`] =
+{
+  "DomText": "Posting Year and Month"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table, measure:2, dim1:1, dim2:1 #9`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table, measure:2, dim1:1, dim2:1 #10`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table, measure:2, dim1:1, dim2:1 #11`] =
+{
+  "DomText": "Posting Year and Quarter"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table, measure:2, dim1:1, dim2:1 #12`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table, measure:2, dim1:1, dim2:1 #13`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table, measure:2, dim1:1, dim2:1 #14`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table, measure:2, dim1:1, dim2:1 #15`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-2: xy/table, measure:1, dim1:1, dim2:1 #0`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-2: xy/table, measure:1, dim1:1, dim2:1 #1`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-2: xy/table, measure:1, dim1:1, dim2:1 #2`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-2: xy/table, measure:1, dim1:1, dim2:1 #3`] =
+{
+  "DomText": "Posting Year and Month"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-2: xy/table, measure:1, dim1:1, dim2:1 #4`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-2: xy/table, measure:1, dim1:1, dim2:1 #5`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-2: xy/table, measure:1, dim1:1, dim2:1 #6`] =
+{
+  "DomText": "Posting Year and Month"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-2: xy/table, measure:1, dim1:1, dim2:1 #7`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-2: xy/table, measure:1, dim1:1, dim2:1 #8`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-2: xy/table, measure:1, dim1:1, dim2:1 #9`] =
+{
+  "DomText": "Posting Year and Quarter"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-2: xy/table, measure:1, dim1:1, dim2:1 #10`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-2: xy/table, measure:1, dim1:1, dim2:1 #11`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-2: xy/table, measure:1, dim1:1, dim2:1 #12`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-2: xy/table, measure:1, dim1:1, dim2:1 #13`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-2: xy/table, measure:1, dim1:1, dim2:1 #14`] =
+{
+  "DomText": "Posting Year and Quarter"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-2: xy/table, measure:1, dim1:1, dim2:1 #15`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-3: xy/table, measure:1, dim1:1, dim2:1 (not All) #0`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-3: xy/table, measure:1, dim1:1, dim2:1 (not All) #1`] =
+{
+  "DomText": "Item Group"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-3: xy/table, measure:1, dim1:1, dim2:1 (not All) #2`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-3: xy/table, measure:1, dim1:1, dim2:1 (not All) #3`] =
+{
+  "DomText": "Posting Year and Month"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-3: xy/table, measure:1, dim1:1, dim2:1 (not All) #4`] =
+{
+  "DomText": "Item Group"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-3: xy/table, measure:1, dim1:1, dim2:1 (not All) #5`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-3: xy/table, measure:1, dim1:1, dim2:1 (not All) #6`] =
+{
+  "DomText": "Posting Year and Month"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-3: xy/table, measure:1, dim1:1, dim2:1 (not All) #7`] =
+{
+  "DomText": "Item Group"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-3: xy/table, measure:1, dim1:1, dim2:1 (not All) #8`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-3: xy/table, measure:1, dim1:1, dim2:1 (not All) #9`] =
+{
+  "DomText": "Posting Year and Week"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-3: xy/table, measure:1, dim1:1, dim2:1 (not All) #10`] =
+{
+  "DomText": "Item Group"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-3: xy/table, measure:1, dim1:1, dim2:1 (not All) #11`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-3: xy/table, measure:1, dim1:1, dim2:1 (not All) #12`] =
+{
+  "DomText": "Item Group"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-3: xy/table, measure:1, dim1:1, dim2:1 (not All) #13`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-3: xy/table, measure:1, dim1:1, dim2:1 (not All) #14`] =
+{
+  "DomText": "Posting Year and Week"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-3: xy/table, measure:1, dim1:1, dim2:1 (not All) #15`] =
+{
+  "DomText": "Item Group"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-4: pie, measure:2, dim1:1(All) #0`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-4: pie, measure:2, dim1:1(All) #1`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-4: pie, measure:2, dim1:1(All) #2`] =
+{
+  "DomText": "Net Sales Amount (SC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-4: pie, measure:2, dim1:1(All) #3`] =
+{
+  "DomText": "Posting Date"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-4: pie, measure:2, dim1:1(All) #4`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-4: pie, measure:2, dim1:1(All) #5`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-4: pie, measure:2, dim1:1(All) #6`] =
+{
+  "DomText": "Posting Date"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-4: pie, measure:2, dim1:1(All) #7`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-4: pie, measure:2, dim1:1(All) #8`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-4: pie, measure:2, dim1:1(All) #9`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-4: pie, measure:2, dim1:1(All) #10`] =
+{
+  "DomText": "Net Sales Amount (SC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-4: pie, measure:2, dim1:1(All) #11`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-4: pie, measure:2, dim1:1(All) #12`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-4: pie, measure:2, dim1:1(All) #13`] =
+{
+  "DomText": "Posting Date"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-4: pie, measure:2, dim1:1(All) #14`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-4: pie, measure:2, dim1:1(All) #15`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-4: pie, measure:2, dim1:1(All) #16`] =
+{
+  "DomText": "Net Sales Amount (SC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-4: pie, measure:2, dim1:1(All) #17`] =
+{
+  "DomText": "Posting Date"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-4: pie, measure:2, dim1:1(All) #18`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-4: pie, measure:2, dim1:1(All) #19`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-4: pie, measure:2, dim1:1(All) #20`] =
+{
+  "DomText": "Net Sales Amount (SC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-4: pie, measure:2, dim1:1(All) #21`] =
+{
+  "DomText": "Posting Date"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-4: pie, measure:2, dim1:1(All) #22`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-5: pie, measure:1, dim1:1(All) #0`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-5: pie, measure:1, dim1:1(All) #1`] =
+{
+  "DomText": "Posting Date"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-5: pie, measure:1, dim1:1(All) #2`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-5: pie, measure:1, dim1:1(All) #3`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-5: pie, measure:1, dim1:1(All) #4`] =
+{
+  "DomText": "Posting Date"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-5: pie, measure:1, dim1:1(All) #5`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-5: pie, measure:1, dim1:1(All) #6`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-5: pie, measure:1, dim1:1(All) #7`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-5: pie, measure:1, dim1:1(All) #8`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-5: pie, measure:1, dim1:1(All) #9`] =
+{
+  "DomText": "Posting Date"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-5: pie, measure:1, dim1:1(All) #10`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-5: pie, measure:1, dim1:1(All) #11`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-5: pie, measure:1, dim1:1(All) #12`] =
+{
+  "DomText": "Posting Date"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-5: pie, measure:1, dim1:1(All) #13`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-5: pie, measure:1, dim1:1(All) #14`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-5: pie, measure:1, dim1:1(All) #15`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-6: pie, measure:1, dim1:1(not All) #0`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-6: pie, measure:1, dim1:1(not All) #1`] =
+{
+  "DomText": "Posting Date"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-6: pie, measure:1, dim1:1(not All) #2`] =
+{
+  "DomText": "Item Group"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-6: pie, measure:1, dim1:1(not All) #3`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-6: pie, measure:1, dim1:1(not All) #4`] =
+{
+  "DomText": "Posting Date"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-6: pie, measure:1, dim1:1(not All) #5`] =
+{
+  "DomText": "Item Group"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-6: pie, measure:1, dim1:1(not All) #6`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-6: pie, measure:1, dim1:1(not All) #7`] =
+{
+  "DomText": "Item Group"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-6: pie, measure:1, dim1:1(not All) #8`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-6: pie, measure:1, dim1:1(not All) #9`] =
+{
+  "DomText": "Posting Date"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-6: pie, measure:1, dim1:1(not All) #10`] =
+{
+  "DomText": "Business Partner Group Name"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-6: pie, measure:1, dim1:1(not All) #11`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-6: pie, measure:1, dim1:1(not All) #12`] =
+{
+  "DomText": "Posting Date"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-6: pie, measure:1, dim1:1(not All) #13`] =
+{
+  "DomText": "Business Partner Group Name"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-6: pie, measure:1, dim1:1(not All) #14`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-6: pie, measure:1, dim1:1(not All) #15`] =
+{
+  "DomText": "Business Partner Group Name"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-7: heatmap, measure:1, dim1:1, dim2:1 (All) #0`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-7: heatmap, measure:1, dim1:1, dim2:1 (All) #1`] =
+{
+  "DomText": "Business Partner Group Name"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-7: heatmap, measure:1, dim1:1, dim2:1 (All) #2`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-7: heatmap, measure:1, dim1:1, dim2:1 (All) #3`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-7: heatmap, measure:1, dim1:1, dim2:1 (All) #4`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-7: heatmap, measure:1, dim1:1, dim2:1 (All) #5`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-7: heatmap, measure:1, dim1:1, dim2:1 (All) #6`] =
+{
+  "DomText": "Business Partner Group Name"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-7: heatmap, measure:1, dim1:1, dim2:1 (All) #7`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-7: heatmap, measure:1, dim1:1, dim2:1 (All) #8`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-7: heatmap, measure:1, dim1:1, dim2:1 (All) #9`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-7: heatmap, measure:1, dim1:1, dim2:1 (All) #10`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-7: heatmap, measure:1, dim1:1, dim2:1 (All) #11`] =
+{
+  "DomText": "Item Group"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-7: heatmap, measure:1, dim1:1, dim2:1 (All) #12`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-7: heatmap, measure:1, dim1:1, dim2:1 (All) #13`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-7: heatmap, measure:1, dim1:1, dim2:1 (All) #14`] =
+{
+  "DomText": "Item Group"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-7: heatmap, measure:1, dim1:1, dim2:1 (All) #15`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-8: heatmap, measure:1, dim1:1, dim2:1 (not All) #0`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-8: heatmap, measure:1, dim1:1, dim2:1 (not All) #1`] =
+{
+  "DomText": "Posting Year and Month"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-8: heatmap, measure:1, dim1:1, dim2:1 (not All) #2`] =
+{
+  "DomText": "Business Partner Group Name"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-8: heatmap, measure:1, dim1:1, dim2:1 (not All) #3`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-8: heatmap, measure:1, dim1:1, dim2:1 (not All) #4`] =
+{
+  "DomText": "Business Partner Group Name"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-8: heatmap, measure:1, dim1:1, dim2:1 (not All) #5`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-8: heatmap, measure:1, dim1:1, dim2:1 (not All) #6`] =
+{
+  "DomText": "Posting Year and Month"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-8: heatmap, measure:1, dim1:1, dim2:1 (not All) #7`] =
+{
+  "DomText": "Business Partner Group Name"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-8: heatmap, measure:1, dim1:1, dim2:1 (not All) #8`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-8: heatmap, measure:1, dim1:1, dim2:1 (not All) #9`] =
+{
+  "DomText": "Item Group"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-8: heatmap, measure:1, dim1:1, dim2:1 (not All) #10`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-8: heatmap, measure:1, dim1:1, dim2:1 (not All) #11`] =
+{
+  "DomText": "Posting Year and Month"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-8: heatmap, measure:1, dim1:1, dim2:1 (not All) #12`] =
+{
+  "DomText": "Item Group"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-8: heatmap, measure:1, dim1:1, dim2:1 (not All) #13`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-8: heatmap, measure:1, dim1:1, dim2:1 (not All) #14`] =
+{
+  "DomText": "Posting Year and Month"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-8: heatmap, measure:1, dim1:1, dim2:1 (not All) #15`] =
+{
+  "DomText": "Item Group"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #0`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #1`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #2`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #3`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #4`] =
+{
+  "DomText": "Posting Year and Month"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #5`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #6`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #7`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #8`] =
+{
+  "DomText": "Posting Year and Month"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #9`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #10`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #11`] =
+{
+  "DomText": "Posting Year and Quarter"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #12`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #13`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #14`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #15`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #16`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #17`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #18`] =
+{
+  "DomText": "Posting Year and Quarter"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #19`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #20`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #21`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #22`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #23`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #24`] =
+{
+  "DomText": "Posting Date"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #25`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #26`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #27`] =
+{
+  "DomText": "Posting Date"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #28`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #29`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #30`] =
+{
+  "DomText": "Posting Year and Week"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #31`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #32`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #33`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #34`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #35`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #36`] =
+{
+  "DomText": "Posting Year and Week"
+};
+
+exports[`Sales Analysis by Rows Chart > Switch chart type status-1: xy/table measure:2, dim1:1, dim2:1 #37`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Multiple and single selection #0`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Multiple and single selection #1`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Multiple and single selection #2`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Multiple and single selection #3`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Multiple and single selection #4`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis by Rows Chart > Multiple and single selection #5`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis by Rows Chart > Show details #0`] =
+{
+  "DomText": ""
+};
+
+exports[`Sales Analysis by Rows Chart > Show details #1`] =
+{
+  "DomText": "Details (1)"
+};
+
+exports[`Sales Analysis by Rows Chart > Show details #2`] =
+{
+  "DomText": "Posting Year and Month201601Net Sales Amount (LC)551,855.250"
+};
+
+exports[`Sales Analysis by Rows Chart > Show details #3`] =
+{
+  "DomText": ""
+};
+
+exports[`Sales Analysis by Rows Chart > Show details #4`] =
+{
+  "DomText": "Details (2)"
+};
+
+exports[`Sales Analysis by Rows Chart > Show details #5`] =
+{
+  "DomText": "Posting Year and Month201601Gross Profit (LC)255,521.900"
+};
+
+exports[`Sales Analysis by Rows Chart > Show details #6`] =
+{
+  "DomText": ""
+};
+
+exports[`Sales Analysis by Rows Chart > Show details #7`] =
+{
+  "DomText": "Details"
+};
+
+exports[`Sales Analysis by Rows Chart > Show details #8`] =
+{
+  "DomText": ""
+};
+
+exports[`Sales Analysis by Rows Chart > Show details #9`] =
+{
+  "DomText": "Details"
+};
+
+exports[`Sales Analysis by Rows Chart > Show details #10`] =
+{
+  "DomText": ""
+};
+
+exports[`Sales Analysis by Rows Chart > Show details #11`] =
+{
+  "DomText": "Details"
+};
+
+exports[`Sales Analysis by Rows Chart > Show details #12`] =
+{
+  "DomText": "Selected Total: 7,862.500"
+};
+
+exports[`Sales Analysis by Rows Chart > Show details #13`] =
+{
+  "DomText": "Details (1)"
+};
+
+exports[`Sales Analysis by Rows Chart > Show details #14`] =
+{
+  "DomText": "Selected Total: 7,862.500"
+};
+
+exports[`Sales Analysis by Rows Chart > Show details #15`] =
+{
+  "DomText": "Details (1)"
+};
+
+exports[`Sales Analysis by Rows Chart > Show details #16`] =
+{
+  "DomText": "Selected Total: 7,862.500"
+};
+
+exports[`Sales Analysis by Rows Chart > Show details #17`] =
+{
+  "DomText": "Details (1)"
+};
+
+exports[`Sales Analysis by Rows Chart > Show details #18`] =
+{
+  "DomText": "Selected Total: 7,862.500"
+};
+
+exports[`Sales Analysis by Rows Chart > Show details #19`] =
+{
+  "DomText": "Details (1)"
+};

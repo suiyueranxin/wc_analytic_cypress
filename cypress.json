@@ -1,0 +1,48 @@
+{
+  "projectId":"5tg8ro",
+  "pageLoadTimeout": 100000,
+  "numTestsKeptInMemory": 1,
+  "video": false,
+  "ignoreTestFiles": [
+    "**/__snapshots__/*",
+    "**/__image_snapshots__/*"
+  ],
+  "env": {
+    "url": "http://10.59.60.235:31715",
+    "detailLog": false,
+    "visiterror": false,
+    "cypress-plugin-snapshots": {
+      "autoCleanUp": false,
+      "autopassNewSnapshots": true,
+      "diffLines": 3,
+      "excludeAttribute": "*",
+      "excludeFields": [],
+      "ignoreExtraArrayItems": false,
+      "ignoreExtraFields": false,
+      "normalizeJson": true,
+      "prettier": true,
+      "imageConfig": {
+        "createDiffImage": true,
+        "resizeDevicePixelRatio": true,
+        "threshold": 0.01,
+        "thresholdType": "percent"
+      },
+      "screenshotConfig": {
+        "blackout": [],
+        "capture": "viewport",
+        "clip": null,
+        "disableTimersAndAnimations": true,
+        "log": false,
+        "scale": true,
+        "timeout": 30000
+      },
+      "serverEnabled": true,
+      "serverHost": "localhost",
+      "serverPort": 2121,
+      "updateSnapshots": false
+    },
+    "chromeWebSecurity": false
+  },
+  "viewportWidth": 1920,
+  "viewportHeight": 1080
+}

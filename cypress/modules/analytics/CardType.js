@@ -1,0 +1,9 @@
+export const KPILINE = 'line';
+export const COLUMN = "column";
+export const BAR = "bar";
+export const STACKED_COLUMN = "stacked column";
+export const STACKED_BAR = "stacked bar";
+export const PIE = "pie";
+export const DONUT = "donut";
+export const HEATMAP = "heatmap";
+export const TABLE = "table";

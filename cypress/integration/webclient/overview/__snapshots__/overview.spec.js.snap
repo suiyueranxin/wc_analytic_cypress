@@ -1,0 +1,634 @@
+exports[`Sales Analysis Overview > Open page at first time #0`] =
+{
+  "DomText": "Standard"
+};
+
+exports[`Sales Analysis Overview > Open page at first time #1`] =
+{
+  "DomText": "Posting Date"
+};
+
+exports[`Sales Analysis Overview > Open page at first time #2`] =
+{
+  "DomText": "Document Type Display Name"
+};
+
+exports[`Sales Analysis Overview > Open page at first time #3`] =
+{
+  "DomText": "Business Partner Code"
+};
+
+exports[`Sales Analysis Overview > Open page at first time #4`] =
+{
+  "DomText": "Business Partner Group Name"
+};
+
+exports[`Sales Analysis Overview > Open page at first time #5`] =
+{
+  "DomText": "Item Code"
+};
+
+exports[`Sales Analysis Overview > Open page at first time #6`] =
+{
+  "DomText": "Item Group"
+};
+
+exports[`Sales Analysis Overview > Open page at first time #7`] =
+{
+  "DomText": "Year:Begin...Today"
+};
+
+exports[`Sales Analysis Overview > Open page at first time #8`] =
+{
+  "DomText": "A/R Invoice"
+};
+
+exports[`Sales Analysis Overview > Open page at first time #9`] =
+{
+  "DomText": "Sales Amount by Year"
+};
+
+exports[`Sales Analysis Overview > Open page at first time #10`] =
+{
+  "DomText": ""
+};
+
+exports[`Sales Analysis Overview > Open page at first time #11`] =
+{
+  "DomText": "0"
+};
+
+exports[`Sales Analysis Overview > Change filters of different data types and operators #0`] =
+{
+  "DomText": "1.3"
+};
+
+exports[`Sales Analysis Overview > Change filters of different data types and operators #1`] =
+{
+  "DomText": "M"
+};
+
+exports[`Sales Analysis Overview > Change filters of different data types and operators #2`] =
+{
+  "DomText": "2.7"
+};
+
+exports[`Sales Analysis Overview > Change filters of different data types and operators #3`] =
+{
+  "DomText": "M"
+};
+
+exports[`Sales Analysis Overview > Change filters of different data types and operators #4`] =
+{
+  "DomText": "1.1"
+};
+
+exports[`Sales Analysis Overview > Change filters of different data types and operators #5`] =
+{
+  "DomText": "M"
+};
+
+exports[`Sales Analysis Overview > Change filters of different data types and operators #6`] =
+{
+  "DomText": "720"
+};
+
+exports[`Sales Analysis Overview > Change filters of different data types and operators #7`] =
+{
+  "DomText": "K"
+};
+
+exports[`Sales Analysis Overview > Navigate to chart #0`] =
+{
+  "DomText": "An Interactive Line Chart "
+};
+
+exports[`Sales Analysis Overview > Navigate to chart #1`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis Overview > Navigate to chart #2`] =
+{
+  "DomText": "Posting Year"
+};
+
+exports[`Sales Analysis Overview > Navigate to chart #3`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis Overview > Navigate to chart #4`] =
+{
+  "DomText": "An Interactive Line Chart "
+};
+
+exports[`Sales Analysis Overview > Navigate to chart #5`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis Overview > Navigate to chart #6`] =
+{
+  "DomText": "Gross Profit (LC)"
+};
+
+exports[`Sales Analysis Overview > Navigate to chart #7`] =
+{
+  "DomText": "Posting Year and Month"
+};
+
+exports[`Sales Analysis Overview > Navigate to chart #8`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis Overview > Navigate to chart #9`] =
+{
+  "DomText": "An Interactive Stacked Column Chart "
+};
+
+exports[`Sales Analysis Overview > Navigate to chart #10`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis Overview > Navigate to chart #11`] =
+{
+  "DomText": "Posting Year and Quarter"
+};
+
+exports[`Sales Analysis Overview > Navigate to chart #12`] =
+{
+  "DomText": "Business Partner Group Name"
+};
+
+exports[`Sales Analysis Overview > Navigate to chart #13`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis Overview > Navigate to chart #14`] =
+{
+  "DomText": "Item Description & Code"
+};
+
+exports[`Sales Analysis Overview > Navigate to chart #15`] =
+{
+  "DomText": "All"
+};
+
+exports[`Sales Analysis Overview > Navigate to chart #16`] =
+{
+  "DomText": "An Interactive Donut Chart "
+};
+
+exports[`Sales Analysis Overview > Navigate to chart #17`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis Overview > Navigate to chart #18`] =
+{
+  "DomText": "Sales Employee or Buyer Name"
+};
+
+exports[`Sales Analysis Overview > Navigate to chart #19`] =
+{
+  "DomText": "An Interactive Heat Map "
+};
+
+exports[`Sales Analysis Overview > Navigate to chart #20`] =
+{
+  "DomText": "Net Sales Amount (LC)"
+};
+
+exports[`Sales Analysis Overview > Navigate to chart #21`] =
+{
+  "DomText": "Posting Year and Month"
+};
+
+exports[`Sales Analysis Overview > Navigate to chart #22`] =
+{
+  "DomText": "Bill-To Country"
+};
+
+exports[`Sales Analysis Overview > Save as, update, remove and switch variant #0`] =
+{
+  "DomText": "AT variant 1"
+};
+
+exports[`Sales Analysis Overview > Save as, update, remove and switch variant #1`] =
+{
+  "DomText": "Posting Date"
+};
+
+exports[`Sales Analysis Overview > Save as, update, remove and switch variant #2`] =
+{
+  "DomText": "Document Type Display Name"
+};
+
+exports[`Sales Analysis Overview > Save as, update, remove and switch variant #3`] =
+{
+  "DomText": "Business Partner Code"
+};
+
+exports[`Sales Analysis Overview > Save as, update, remove and switch variant #4`] =
+{
+  "DomText": "Business Partner Group Name"
+};
+
+exports[`Sales Analysis Overview > Save as, update, remove and switch variant #5`] =
+{
+  "DomText": "Item Code"
+};
+
+exports[`Sales Analysis Overview > Save as, update, remove and switch variant #6`] =
+{
+  "DomText": "Item Group"
+};
+
+exports[`Sales Analysis Overview > Save as, update, remove and switch variant #7`] =
+{
+  "DomText": "Year:Begin...Today"
+};
+
+exports[`Sales Analysis Overview > Save as, update, remove and switch variant #8`] =
+{
+  "DomText": "A/R Invoice"
+};
+
+exports[`Sales Analysis Overview > Save as, update, remove and switch variant #9`] =
+{
+  "DomText": "0"
+};
+
+exports[`Sales Analysis Overview > Save as, update, remove and switch variant #10`] =
+{
+  "DomText": "Standard"
+};
+
+exports[`Sales Analysis Overview > Save as, update, remove and switch variant #11`] =
+{
+  "DomText": "AT variant 1"
+};
+
+exports[`Sales Analysis Overview > Save as, update, remove and switch variant #12`] =
+{
+  "DomText": "0"
+};
+
+exports[`Sales Analysis Overview > Save as, update, remove and switch variant #13`] =
+{
+  "DomText": "AT variant 1"
+};
+
+exports[`Sales Analysis Overview > Save as, update, remove and switch variant #14`] =
+{
+  "DomText": "Sales Amount by Year"
+};
+
+exports[`Sales Analysis Overview > Save as, update, remove and switch variant #15`] =
+{
+  "DomText": ""
+};
+
+exports[`Sales Analysis Overview > Save as, update, remove and switch variant #16`] =
+{
+  "DomText": "0"
+};
+
+exports[`Sales Analysis Overview > Set default variant #0`] =
+{
+  "DomText": "variant 1"
+};
+
+exports[`Sales Analysis Overview > Open page at first time #12`] =
+{
+  "DomText": "Sales and Profit by Month"
+};
+
+exports[`Sales Analysis Overview > Open page at first time #13`] =
+{
+  "DomText": " "
+};
+
+exports[`Sales Analysis Overview > Open page at first time #14`] =
+{
+  "DomText": "Sales Amount by Quarter"
+};
+
+exports[`Sales Analysis Overview > Open page at first time #15`] =
+{
+  "DomText": "By Customer Group"
+};
+
+exports[`Sales Analysis Overview > Open page at first time #16`] =
+{
+  "DomText": "Top 20 Item Sales Amounts"
+};
+
+exports[`Sales Analysis Overview > Open page at first time #17`] =
+{
+  "DomText": " "
+};
+
+exports[`Sales Analysis Overview > Open page at first time #18`] =
+{
+  "DomText": "0 of 0"
+};
+
+exports[`Sales Analysis Overview > Open page at first time #19`] =
+{
+  "DomText": "Sales Amount by Sales Employee"
+};
+
+exports[`Sales Analysis Overview > Open page at first time #20`] =
+{
+  "DomText": " "
+};
+
+exports[`Sales Analysis Overview > Open page at first time #21`] =
+{
+  "DomText": "Country Sales by Month"
+};
+
+exports[`Sales Analysis Overview > Open page at first time #22`] =
+{
+  "DomText": "By Amount"
+};
+
+exports[`Sales Analysis Overview > Show details #0`] =
+{
+  "DomText": "Selected Total: 1,344,100.750"
+};
+
+exports[`Sales Analysis Overview > Show details #1`] =
+{
+  "DomText": "Details (1)"
+};
+
+exports[`Sales Analysis Overview > Show details #2`] =
+{
+  "DomText": "Posting Year2016Net Sales Amount (LC)1,344,100.750"
+};
+
+exports[`Sales Analysis Overview > Show details #3`] =
+{
+  "DomText": ""
+};
+
+exports[`Sales Analysis Overview > Show details #4`] =
+{
+  "DomText": "Details (1)"
+};
+
+exports[`Sales Analysis Overview > Show details #5`] =
+{
+  "DomText": "Posting Year2016Net Sales Amount (LC)1,344,100.750"
+};
+
+exports[`Sales Analysis Overview > Show details #6`] =
+{
+  "DomText": "Selected Total: 551,855.250"
+};
+
+exports[`Sales Analysis Overview > Show details #7`] =
+{
+  "DomText": "Details (2)"
+};
+
+exports[`Sales Analysis Overview > Show details #8`] =
+{
+  "DomText": "Posting Year2016Net Sales Amount (LC)1,344,100.750"
+};
+
+exports[`Sales Analysis Overview > Show details #9`] =
+{
+  "DomText": ""
+};
+
+exports[`Sales Analysis Overview > Show details #10`] =
+{
+  "DomText": "Details (1)"
+};
+
+exports[`Sales Analysis Overview > Show details #11`] =
+{
+  "DomText": "Posting Year2016Net Sales Amount (LC)1,344,100.750"
+};
+
+exports[`Sales Analysis Overview > Show details #12`] =
+{
+  "DomText": ""
+};
+
+exports[`Sales Analysis Overview > Show details #13`] =
+{
+  "DomText": "Details (1)"
+};
+
+exports[`Sales Analysis Overview > Show details #14`] =
+{
+  "DomText": "Posting Year2016Net Sales Amount (LC)1,344,100.750"
+};
+
+exports[`Sales Analysis Overview > Show details #15`] =
+{
+  "DomText": ""
+};
+
+exports[`Sales Analysis Overview > Show details #16`] =
+{
+  "DomText": "Details (1)"
+};
+
+exports[`Sales Analysis Overview > Show details #17`] =
+{
+  "DomText": "Posting Year2016Net Sales Amount (LC)1,344,100.750"
+};
+
+exports[`Sales Analysis Overview > Set default variant #1`] =
+{
+  "DomText": "variant 2"
+};
+
+exports[`Sales Analysis Overview > Set default variant #2`] =
+{
+  "DomText": "Standard"
+};
+
+exports[`Sales Analysis Overview > Set default variant #3`] =
+{
+  "DomText": "Standard"
+};
+
+exports[`Sales Analysis Overview > Pin variant #0`] =
+{
+  "DomText": "variant 1"
+};
+
+exports[`Sales Analysis Overview > Pin variant #1`] =
+{
+  "DomText": "Posting Date"
+};
+
+exports[`Sales Analysis Overview > Pin variant #2`] =
+{
+  "DomText": "Document Type Display Name"
+};
+
+exports[`Sales Analysis Overview > Pin variant #3`] =
+{
+  "DomText": "Business Partner Code"
+};
+
+exports[`Sales Analysis Overview > Pin variant #4`] =
+{
+  "DomText": "Business Partner Group Name"
+};
+
+exports[`Sales Analysis Overview > Pin variant #5`] =
+{
+  "DomText": "Item Code"
+};
+
+exports[`Sales Analysis Overview > Pin variant #6`] =
+{
+  "DomText": "Item Group"
+};
+
+exports[`Sales Analysis Overview > Set default variant #4`] =
+{
+  "DomText": "Standard"
+};
+
+exports[`Sales Analysis Overview > Pin variant #7`] =
+{
+  "DomText": "01/01/2016...03/31/2016"
+};
+
+exports[`Sales Analysis Overview > Pin variant #8`] =
+{
+  "DomText": "A/R Invoice"
+};
+
+exports[`Sales Analysis Overview > Pin variant #9`] =
+{
+  "DomText": "1.3"
+};
+
+exports[`Sales Analysis Overview > Pin variant #10`] =
+{
+  "DomText": "M"
+};
+
+exports[`Sales Analysis Overview > Pin variant #11`] =
+{
+  "DomText": "variant 1"
+};
+
+exports[`Sales Analysis Overview > Pin variant #12`] =
+{
+  "DomText": "Posting Date"
+};
+
+exports[`Sales Analysis Overview > Pin variant #13`] =
+{
+  "DomText": "Document Type Display Name"
+};
+
+exports[`Sales Analysis Overview > Pin variant #14`] =
+{
+  "DomText": "Business Partner Code"
+};
+
+exports[`Sales Analysis Overview > Pin variant #15`] =
+{
+  "DomText": "Business Partner Group Name"
+};
+
+exports[`Sales Analysis Overview > Pin variant #16`] =
+{
+  "DomText": "Item Code"
+};
+
+exports[`Sales Analysis Overview > Pin variant #17`] =
+{
+  "DomText": "Item Group"
+};
+
+exports[`Sales Analysis Overview > Pin variant #18`] =
+{
+  "DomText": "01/01/2016...03/31/2016"
+};
+
+exports[`Sales Analysis Overview > Pin variant #19`] =
+{
+  "DomText": "A/R Invoice"
+};
+
+exports[`Sales Analysis Overview > Pin variant #20`] =
+{
+  "DomText": "1.3"
+};
+
+exports[`Sales Analysis Overview > Pin variant #21`] =
+{
+  "DomText": "M"
+};
+
+exports[`Sales Analysis Overview > Pin variant #22`] =
+{
+  "DomText": "Standard"
+};
+
+exports[`Sales Analysis Overview > Pin variant #23`] =
+{
+  "DomText": "Posting Date"
+};
+
+exports[`Sales Analysis Overview > Pin variant #24`] =
+{
+  "DomText": "Document Type Display Name"
+};
+
+exports[`Sales Analysis Overview > Pin variant #25`] =
+{
+  "DomText": "Business Partner Code"
+};
+
+exports[`Sales Analysis Overview > Pin variant #26`] =
+{
+  "DomText": "Business Partner Group Name"
+};
+
+exports[`Sales Analysis Overview > Pin variant #27`] =
+{
+  "DomText": "Item Code"
+};
+
+exports[`Sales Analysis Overview > Pin variant #28`] =
+{
+  "DomText": "Item Group"
+};
+
+exports[`Sales Analysis Overview > Pin variant #29`] =
+{
+  "DomText": "01/01/2016...03/31/2016"
+};
+
+exports[`Sales Analysis Overview > Pin variant #30`] =
+{
+  "DomText": "A/R Invoice"
+};
+
+exports[`Sales Analysis Overview > Pin variant #31`] =
+{
+  "DomText": "1.3"
+};
+
+exports[`Sales Analysis Overview > Pin variant #32`] =
+{
+  "DomText": "M"
+};

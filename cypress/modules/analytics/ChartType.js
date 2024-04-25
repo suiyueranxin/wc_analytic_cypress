@@ -1,0 +1,9 @@
+export const LINE = 'Line';
+export const COLUMN = "Column";
+export const BAR = "Bar";
+export const STACKED_COLUMN = "Stacked Column";
+export const STACKED_BAR = "Stacked Bar";
+export const PIE = "Pie";
+export const DONUT = "Donut";
+export const HEATMAP = "Heat Map";
+export const TABLE = "Table";

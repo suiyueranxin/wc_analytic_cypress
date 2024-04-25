@@ -1,0 +1,1 @@
+export const WAIT = 3000;
